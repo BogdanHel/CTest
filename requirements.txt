@@ -1,6 +1,11 @@
-# first list the packages you wish to download from PyPI
+# the packages from PyPI
 teachbooks # depends on jupyter-book
-# numpy
+quantuminspire
+qiskit
+projectq
+numpy
+matplotlib
+
 
 # docutils version for reference page formatting
 docutils==0.17.1
