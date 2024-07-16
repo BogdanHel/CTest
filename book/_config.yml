@@ -9,7 +9,7 @@ only_build_toc_files: true
 
 html:
   favicon : "figures/favicon.ico"
-  baseurl :  "https://bogdanhel.github.io/CTest/" #Replace this with your own URL
+  baseurl :  "https://bogdanhel.github.io/CTest/book" #Replace this with your own URL
   home_page_in_navbar       : true
 
 sphinx:
@@ -20,7 +20,7 @@ sphinx:
       use_thebe_lite: false
       exclude_patterns: ["**/_*.yml", "**/*.md", "**/*.ipynb"]
     html_theme_options:
-      repository_url: "https://bogdanhel.github.io/CTest/" #add your own repo URL here
+      repository_url: "https://bogdanhel.github.io/CTest/book" #add your own repo URL here
       
       use_repository_button: true
       use_issues_button : true
