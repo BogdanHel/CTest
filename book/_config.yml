@@ -20,7 +20,7 @@ sphinx:
       use_thebe_lite: false
       exclude_patterns: ["**/_*.yml", "**/*.md", "**/*.ipynb"]
     html_theme_options:
-      repository_url: "https://bogdanhel.github.io/CTest/book" #add your own repo URL here
+      repository_url: "https://bogdanhel.github.io/CTest" #add your own repo URL here
       
       use_repository_button: true
       use_issues_button : true
